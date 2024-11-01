@@ -1,6 +1,6 @@
 module github.com/lucasdrufva/keystore-extractor
 
-go 1.21.6
+go 1.21
 
 require (
 	github.com/elastic/elastic-agent-libs v0.7.4
